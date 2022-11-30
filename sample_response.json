@@ -1,0 +1,218 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Shruti Dhapola",
+            "title": "Apple iPhone 14 Launch Live Updates: iPhone 14 Pro starts at Rs 1,29,900; iPhone 14 at Rs 79,900 - The Indian Express",
+            "description": "Apple iPhone 14 Launch Event Live, Iphone 14 India Launch Live, September 7: The iPhone 14 and iPhone 14 Plus are now official. Apple also launched the Apple Watch Series 8, Apple AirPods Pro 2 and Apple Watch Ultra.",
+            "url": "https://indianexpress.com/article/technology/mobile-tabs/apple-iphone-14-iphone-14-pro-september-eventlaunch-live-updates-8135712/",
+            "urlToImage": "https://images.indianexpress.com/2022/09/iPhone14Pro_Max_LEAD.jpg",
+            "publishedAt": "2022-09-08T04:02:36Z",
+            "content": "Apple September Event, iPhone 14 Launch Event Live: Apple’s September event is now over, where it revealed its coveted iPhone 14 series along with a new Watch Series 8, and the next generation of Air… [+2195 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Apple Watch 8 Ultra Hands-on (It's BIG!) - CNET",
+            "description": "At the Apple Park campus, CNET's Scott Stein tries on the new Apple Watch Ultra, geared for the rugged, outdoorsy type.Subscribe to CNET: https://www.youtube...",
+            "url": "https://www.youtube.com/watch?v=9zXLixe55t4",
+            "urlToImage": "https://i.ytimg.com/vi/9zXLixe55t4/hqdefault.jpg",
+            "publishedAt": "2022-09-08T01:03:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Apple AirPods Pro (2022) in under 3 minutes - Engadget",
+            "description": "Apple's new AirPods Pro have touch controls.Read our full story on Engadget: Get More Engadget: • Like us on Facebook: http://www.facebook.com/engadget• Foll...",
+            "url": "https://www.youtube.com/watch?v=WxyummqnsNY",
+            "urlToImage": "https://i.ytimg.com/vi/WxyummqnsNY/hqdefault.jpg",
+            "publishedAt": "2022-09-07T23:23:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Warframe: Veilbreaker - Official Gameplay Trailer - IGN",
+            "description": "Warframe's latest update, Veilbreaker, is available now on all platforms, along with Styanax, the 50th playable Warframe. Watch the trailer to see what to ex...",
+            "url": "https://www.youtube.com/watch?v=UGwj-pSi3Tc",
+            "urlToImage": "https://i.ytimg.com/vi/UGwj-pSi3Tc/maxresdefault.jpg",
+            "publishedAt": "2022-09-07T23:00:09Z",
+            "content": null
+        },
+        
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Vlad",
+            "title": "Apple will release iOS 16 and watchOS 9 on Monday, September 12 - GSMArena.com news - GSMArena.com",
+            "description": "The update for iPadOS was delayed.",
+            "url": "https://www.gsmarena.com/apple_will_release_ios_16_and_watchos_9_on_monday_september_12-news-55701.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/09/ios-16-watchos-9-release-date/-952x498w6/gsmarena_000.jpg",
+            "publishedAt": "2022-09-07T20:48:11Z",
+            "content": "Alongside its various announcements today, Apple also revealed when we should expect its next big software update to hit its smartphones and smartwatches, and as always, it's going to be a Monday. Sp… [+718 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Peter",
+            "title": "Apple discounts iPhone 13 and 13 mini, iPhone 12 too (but 12 mini is discontinued) - GSMArena.com news - GSMArena.com",
+            "description": "As is the iPhone 13 Pro duo, of course. No more iPhone 11 models either, at least not from Apple.com.",
+            "url": "https://www.gsmarena.com/apple_discounts_iphone_13_and_13_mini_iphone_12_too_but_12_mini_is_discontinued-news-55700.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/09/older-iphone-new-prices/-952x498w6/gsmarena_000.jpg",
+            "publishedAt": "2022-09-07T20:42:02Z",
+            "content": "The iPhone 14 generation is here and with it came the end of Apples mini period. While that is a loss, at least the rumors of a price hike proved only true outside the US. However, that does mean tha… [+3970 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Hartley Charlton",
+            "title": "New iPhone 14 Pro Color Options: Space Black and Deep Purple - MacRumors",
+            "description": "The iPhone 14 Pro introduces two new color options: Space Black and Deep Purple, in addition to Silver and Gold carried over from previous...",
+            "url": "https://www.macrumors.com/2022/09/07/iphone-14-pro-colors-space-black-and-deep-purple/",
+            "urlToImage": "https://images.macrumors.com/t/TzYp5zi4Dpsq3PLoxN3F0lYW-lM=/1600x/article-new/2022/09/iphone-14-pro-space-black-deep-purple.jpg",
+            "publishedAt": "2022-09-07T20:14:30Z",
+            "content": "The iPhone 14 Pro introduces two new color options: Space Black and Deep Purple, in addition to Silver and Gold carried over from previous generations.\r\nThis is the first time that the a \"Pro\" iPhone… [+994 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Kishan Vyas",
+            "title": "The iPhone 14 Pro uses its display notch smarter than Android phone could - XDA Developers",
+            "description": "Part of the iPhone 14 Pro's appeal is its new notch design and the new software experience that Apple has built around it. Apple calls it Dynamic Island.",
+            "url": "https://www.xda-developers.com/iphone-14-pro-dynamic-island/",
+            "urlToImage": "https://www.xda-developers.com/files/2022/09/chrome-2022-09-07-19-14-34.460-1.jpeg",
+            "publishedAt": "2022-09-07T19:51:00Z",
+            "content": "The new iPhone 14 lineup is officially here, and while the standard iPhone 14 and iPhone 14 Plus are rather uninteresting, the Pro models bring some neat features. Part of the iPhone 14 Pro‘s appeal … [+1705 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Here's the New iPhone Lineup: iPhone 14 and iPhone 14 Pro, iPhone 13 and 13 Mini, iPhone 12 and iPhone SE - MacRumors",
+            "description": "With the launch of the iPhone 14 and iPhone 14 Pro, Apple has discontinued some older iPhones that were available as low-cost options. Apple is no...",
+            "url": "https://www.macrumors.com/2022/09/07/iphone-14-lineup/",
+            "urlToImage": "https://images.macrumors.com/t/RoLM15ymMmL3yJU6UchATCiAFkE=/1721x/article-new/2022/09/iphone-lineup-iphone-14-launch.jpg",
+            "publishedAt": "2022-09-07T19:50:36Z",
+            "content": "With the launch of the iPhone 14 and iPhone 14 Pro, Apple has discontinued some older iPhones that were available as low-cost options. Apple is no longer selling the iPhone 11, and the iPhone 12 mini… [+834 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gameinformer.com"
+            },
+            "author": "Wesley LeBlanc",
+            "title": "Call Of Duty Will Remain On PlayStation For Three Years After Current Agreement, Jim Ryan Says - Game Informer",
+            "description": "The current agreement is believed to last for three more games, including this year's Modern Warfare II.",
+            "url": "https://www.gameinformer.com/2022/09/07/call-of-duty-will-remain-on-playstation-for-three-years-after-current-agreement-jim-ryan",
+            "urlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2022/09/07/babe63b5/cod.jpg",
+            "publishedAt": "2022-09-07T19:42:00Z",
+            "content": "Microsoft announced in January that it was moving to acquire Activision Blizzard for a colossal $68.7 billion, making it far and away the most expensive acquisition in gaming history. Now, of course,… [+3617 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DNA India"
+            },
+            "author": "DNA Web Team",
+            "title": "Apple’s big price cut on iPhone 13 after iPhone 14 launch, here’s how much it costs now - DNA India",
+            "description": "Apple has launched the new iPhone 14 in India at a starting price of Rs 79,900.",
+            "url": "https://www.dnaindia.com/mobile/report-apple-s-big-price-cut-on-iphone-13-after-iphone-14-launch-here-s-how-much-it-costs-now-2983315",
+            "urlToImage": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/09/08/2536874-apple-iphone-13.png",
+            "publishedAt": "2022-09-07T19:18:00Z",
+            "content": "Reported By:| Edited By: DNA Web Team |Source: DNA Web Desk |Updated: Sep 08, 2022, 12:50 AM ISTApple has reduced the price of Apple iPhone 13 on its official website after the launch of Apple iPhone… [+1335 chars]"
+        },
+        
+        
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Officially Discontinues Apple Watch Series 3 - MacRumors",
+            "description": "With the launch of the new Apple Watch Series 8 models and the updated Apple Watch SE, Apple has officially discontinued the outdated Apple Watch...",
+            "url": "https://www.macrumors.com/2022/09/07/apple-discontinues-apple-watch-series-3/",
+            "urlToImage": "https://images.macrumors.com/t/XABJRV39eYQjwu-Qqoy0AmlWGQQ=/2000x/article-new/2022/09/apple-watch-series-3.jpg",
+            "publishedAt": "2022-09-07T18:42:32Z",
+            "content": "With the launch of the new Apple Watch Series 8 models and the updated Apple Watch SE, Apple has officially discontinued the outdated Apple Watch Series 3 that was being sold as a low cost $199 optio… [+1314 chars]"
+        },
+        
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "The iPhone 14 ditches physical SIM cards for eSIM - TechCrunch",
+            "description": "Apple's new iPhones -- the iPhone 14 and iPhone 14 Plus -- won't have physical SIM cards, Apple announced at an event in Cupertino.",
+            "url": "https://techcrunch.com/2022/09/07/the-iphone-14-ditches-physical-sim-cards-for-esim/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/apple-iphone-14.jpg?w=1200",
+            "publishedAt": "2022-09-07T18:08:58Z",
+            "content": "Apple’s new iPhones — the iPhone 14 and iPhone 14 Plus — won’t have physical SIM cards. The company announced the nugget at its event in Cupertino today, revealing that eSIM will be the only way the … [+748 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Essentially Sports"
+            },
+            "author": "https://www.facebook.com/Rex01612/",
+            "title": "Nintendo Excites Fans by Following Up New Pokemon Scarlet and Violet Trailer With Switch OLED Surprise - EssentiallySports",
+            "description": "Nintendo teases a new special version of the Switch OLED-model console to promote the upcoming Pokemon Scarlet and Violet video game.",
+            "url": "https://www.essentiallysports.com/esports-news-nintendo-excites-fans-by-following-up-new-pokemon-scarlet-and-violet-trailer-with-switch-oled-surprise/",
+            "urlToImage": "https://image-cdn.essentiallysports.com/wp-content/uploads/nintendo-switch-and-nintendo-wii.jpg",
+            "publishedAt": "2022-09-07T17:50:00Z",
+            "content": "Pokemon Scarlet and Violet are only a few months away from their release. Its hard for fans to control themselves from eagerly waiting to get the new game in their hands. However, Nintendo teased a n… [+3283 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Samsung's Galaxy Z Flip 4's cover screen is full of hidden features. Here are 8 of them - ZDNET",
+            "description": "If you just picked up the new Z Flip 4, you’ll want to watch how to take advantage of the cover screen.⏰ Timestamps: 0:31 - Tap to wake the Z Flip 4's cover ...",
+            "url": "https://www.youtube.com/watch?v=pY2vHTmAFlk",
+            "urlToImage": "https://i.ytimg.com/vi/pY2vHTmAFlk/maxresdefault.jpg",
+            "publishedAt": "2022-09-07T16:30:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sportskeeda"
+            },
+            "author": "Arka \"Biasedguy\" Sarkar",
+            "title": "5 Pokemon Unite licenses that are overpowered in the current meta (September 2022) - Sportskeeda",
+            "description": "Like every MOBA, Pokemon Unite has its meta, which depends on multiple factors that players need to worry about.",
+            "url": "https://www.sportskeeda.com/pokemon/5-pokemon-unite-licenses-overpowered-current-meta-september-2022",
+            "urlToImage": "https://staticg.sportskeeda.com/editor/2022/09/65c33-16625564456478-1920.jpg",
+            "publishedAt": "2022-09-07T15:27:01Z",
+            "content": "Like every MOBA, Pokemon Unite has its meta, which depends on multiple factors that players need to worry about. The Pokemon Company regularly makes changes and updates to the existing rosters to ens… [+4590 chars]"
+        }
+    ]
+}

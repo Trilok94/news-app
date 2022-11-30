@@ -1,0 +1,14 @@
+#allcont {
+    display: flex;
+    align-items: flex-end ;
+    
+
+
+}
+#tag {
+    font-size: x-small;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
